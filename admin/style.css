@@ -1,0 +1,37 @@
+.sec_img{
+	background-image:url("car.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position: 5px;
+	color:white;
+}
+.logo{
+	background-color:black;
+}
+.box{
+	background-color:#0000005c;
+	margin:25px 25%;
+}
+.box2{
+	background-color:#00000073;
+	margin:25px 33%;
+	margin-bottom: 100px;
+	color:white;
+	padding:30px;
+}
+.reg_img{
+	background-image:url("car3.jpg");
+	background-size:cover;
+	background-position:5px;
+}
+.box1{
+	background-color:#00000073;
+	margin:150px 33%;
+	color:white;
+	padding:30px;
+}
+.log_img{
+	background-image:url("car3.jpg");
+	background-size:cover;
+	background-position:5px;
+}
